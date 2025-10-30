@@ -12,7 +12,8 @@ The easiest way to get the app is to download the pre-built version for your sys
 
 **Go to the [Releases Page](https://github.com/GegarinSagolsem/Clip-History/releases)**
 
-![alt text](image.png)
+<img width="1465" height="815" alt="image" src="https://github.com/user-attachments/assets/7c23912e-53e2-4791-961c-68759655ea6b" />
+
 
 - For **Windows**: Download `ClipHistory.exe`
 - For **Linux**: Download `ClipHistory` (you may need to [make it executable](https://github.com/GegarinSagolsem/Clip-History#how-to-run-for-developers) after downloading).
