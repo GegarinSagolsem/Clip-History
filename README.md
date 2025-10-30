@@ -2,7 +2,7 @@
 
 A simple, cross-platform clipboard manager built with Python and Tkinter. It runs in the background and saves a running history of your copied text, so you never lose an important link or piece of text again.
 
-![<img width="673" height="845" alt="image" src="https://github.com/user-attachments/assets/00430a3f-3862-4fc7-bcd0-9508b1ed204c" />](https://via.placeholder.com/600x400.png?text=Add+a+screenshot+of+your+app+here!)
+![<img width="675" height="873" alt="image" src="https://github.com/user-attachments/assets/253c612a-8a21-4095-9a56-5a3497c5a602" />]
 
 ---
 
@@ -83,3 +83,4 @@ To package the application into a standalone `.exe` file for Windows:
 
 3.  **Find your app:**
     The finished `ClipHistory.exe` will be inside the new `dist` folder.
+
